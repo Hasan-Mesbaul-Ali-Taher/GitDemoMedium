@@ -1,4 +1,4 @@
 def hello:
-    return "hello World"
+    return "buga buga"
 def greeting:
     return "Welcome, Sanjula!"
