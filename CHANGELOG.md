@@ -1,0 +1,6 @@
+- chore(readme.md): added cool readme file
+- chore(simple.py): rewrote the code to print "buga buga"
+- chore(simple.py): Just changing a line to print "hello world"
+- Greeting Function
+- Updated hello function
+- Initial Commit
